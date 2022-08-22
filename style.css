@@ -1,0 +1,24 @@
+body{
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    position:absolute;
+    top: 40%;
+    border-radius: 10px;
+    border-bottom: 2px;
+    font-size: larger;
+}
+
+label{
+    font-size:xx-large;
+    position: absolute;
+    top: 47%;
+}
